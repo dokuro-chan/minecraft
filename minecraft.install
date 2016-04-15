@@ -1,0 +1,4 @@
+post_install() {
+   echo "Free version of minecraft, all credits go to Minesafter's creators."
+   echo "Files, configs, and other shit will be stored in ~/.minecraft"
+}
