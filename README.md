@@ -1,2 +1,2 @@
 # minecraft
-Minesafter launcher arch linux package
+Mineshafter launcher arch linux package
