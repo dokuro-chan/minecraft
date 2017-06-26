@@ -9,8 +9,8 @@ license=('custom')
 url="http://mineshafter.info/"
 depends=('java-runtime' 'xorg-xrandr' 'ttf-font' 'libxtst')
 noextract=('minecraft.jar')
-source=(minecraft http://mineshafter.info/s/Mineshafter-launcher.jar minecraft.desktop minecraft.png minecraft.install LICENSE)
-md5sums=('016733d9b0ce647d0f6d5435086f0e8e' 'b3bd65de09f2b92808e74e308f48e1df' 'ecb1bd9b6e6305987b6fb5832ab0b468'
+source=(minecraft https://mineshafter.info/files/jars/Mineshafter-launcher.jar minecraft.desktop minecraft.png minecraft.install LICENSE)
+md5sums=('016733d9b0ce647d0f6d5435086f0e8e' 'a47d753930a8d27402b3934953e8b4d6' 'ecb1bd9b6e6305987b6fb5832ab0b468'
          'dfecf76f9db4497399f4b7c171150c89' '6ff71d817ff71cf5e014b9d798745148' '4f9895e9a0df1cebb21613b448f1ab8c')
 install='minecraft.install'
 
